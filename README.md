@@ -50,6 +50,7 @@
         <b>Slogen:</b> If determination Is to Succeed, Commitment Should Be Astounding !
     </li>
   
+
   
   </div>
 
@@ -82,9 +83,7 @@
 
 
 
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/deshprograming/deshprograming/assets/github-contribution-grid-snake.svg" />
-</div>
+
 </div>
 
 <div>
