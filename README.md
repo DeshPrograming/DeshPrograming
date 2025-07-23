@@ -21,11 +21,11 @@
 <a href="#">
   <img align="center" alt="Desh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
-<a href="https://twitter.com/DeshPrograming">
+<!-- <a href="https://twitter.com/DeshPrograming">
   <img align="center" alt="DeshPrograming | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/desh-piyumantha-289178260/">
-  <img align="center" alt="Desh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Desh's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://camo.githubusercontent.com/886ee33b0e068d2273637b9853c7eef254326881173e6bba1a718ebf18beb792/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476352434e78786a67527158412d3359795336736634557a33562d44343649637345684c3964675a7058477a58696d57496a4f5132654f446a3534427443434d737530676b495926757371703d434155)" />
 </div>
 </a>
 </div>
