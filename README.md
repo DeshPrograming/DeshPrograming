@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Desh+Area....;Nice+to+meet+you!&center=true&size=35">
   </a>
   <div align="center">
-<h4><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Desh Piyumantha | 💻 Full Stack Developer | 🛸 Sri Lanka <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
+<h4><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Sudesh Piyumantha | 💻 Full Stack Developer | 🛸 Sri Lanka <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
 </div>
   
 <p align="center">
@@ -35,7 +35,7 @@
   <br/>
   <div align="center">   
   <li>
-        <b>Name:</b> Desh Piyumantha (Sudesh)
+        <b>Name:</b> Sudesh Piyumantha (Desh)
      </li>
     <li>
         <b>Gender:</b> He/his/Male
@@ -44,7 +44,7 @@
         <b>Hobbys:</b> Coding,  Design, Programming
     </li>
   <li>
-        <b>Study:</b> Undergraduate BSc(Hons) Software Engineering in Java Institute 
+        <b>Study:</b> Graduate BSc(Hons) Software Engineering in Birmingham City University, UK 
      </li>
     <li>
         <b>Slogen:</b> If determination Is to Succeed, Commitment Should Be Astounding !
